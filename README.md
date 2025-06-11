@@ -50,3 +50,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+<a href="https://app.rocketseat.com.br/me/atsandrini-03603"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=atsandrini-03603&type=card" width="280" alt="Ademir Thiago Sandrini 's Rocket ID"/></a>
