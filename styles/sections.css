@@ -6,16 +6,16 @@ section header {
   a {
     justify-self: end;
     align-items: center;
-    gap: 8px;
+    gap: 8px
 
     span {
       background-image: url(../assets/icons/ArrowRight.svg);
       width: 16px;
-      height: 16px;
+      height: 16px;;
     }
 
     &:hover span {
-      background-image: url(../assets/icons/);
+      background-image: url(../assets/icons/ArrowRight-rover.svg);
     }
   }
 }
@@ -56,30 +56,33 @@ section header {
   }
 }
 
-#weekle {
+#weekly {
 
-}
 
-&>div {
+
+  &>div {
     grid-template-columns: repeat(4, 292px);
   }
-  
-img {
-  height: 160px;
+
+  img {
+    height: 160px;
+  };
+
+  figure {
+    position: relative;
+
+    .content-tag {
+      position: absolute;
+      top: 8px;
+      left: 8px
+    }
+
+    p {
+      margin-top: 8px;
+      font-weight: 800;
+    }
+  }
 }
 
-figure {
-  position: relative;
 
-  .contebt-tag {
-    position: absolute;
-    top: 8px;
-    left: 8px;
-  }
-
-  p {
-    margin-top: 8px;
-    font-weight: 800;
-  }
-}
   
