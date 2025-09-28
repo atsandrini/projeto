@@ -7,14 +7,14 @@
     gap: 8px;
   }
 
-  /* nesting css */
+  /* nestimg css */
   div:nth-child(2) {
     margin-inline: auto;
   }
 
   div:nth-child(3) {
     justify-self: end;
-  } 
+  }
 }
 
 #secondary {
@@ -23,4 +23,3 @@
   border-inline: none;
   justify-content: space-between;
 }
-
