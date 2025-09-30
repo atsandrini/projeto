@@ -58,7 +58,7 @@ main {
   grid-template-columns: 2fr 1.4fr;
 
   grid-template-areas: 
-  ']
+  
   "featured featured"
   "weekly weekly"
   "ai aside";
